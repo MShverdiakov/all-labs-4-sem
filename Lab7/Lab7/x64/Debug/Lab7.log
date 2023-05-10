@@ -1,0 +1,15 @@
+﻿  Lab7.cpp
+C:\Users\shverd\source\repos\4sem\Lab7\Lab7\Car.h(19,86): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\shverd\source\repos\4sem\Lab7\Lab7\heir.h(13,30): warning C4101: j: неиспользованная локальная переменная
+C:\Users\shverd\source\repos\4sem\Lab7\Lab7\heir.h(5): message : во время компиляции функции-члена класс шаблон "void Heir<Car>::solution(Set<int> *,Set<T1> *,int)"
+          with
+          [
+              T1=Car
+          ]
+C:\Users\shverd\source\repos\4sem\Lab7\Lab7\Lab7.cpp(30): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Heir<Car>::solution(Set<int> *,Set<T1> *,int)"
+          with
+          [
+              T1=Car
+          ]
+C:\Users\shverd\source\repos\4sem\Lab7\Lab7\Lab7.cpp(16): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Heir<Car>"
+  Lab7.vcxproj -> C:\Users\shverd\source\repos\4sem\Lab7\x64\Debug\Lab7.exe
